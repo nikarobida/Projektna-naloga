@@ -2,8 +2,9 @@
 Ta repozitorij vsebuje projektno nalogo za predmet Programiranje 1. V projektni nalogi sem zajela podatke vseh rumov na spletni strani https://www.rumratings.com/brands. 
 
 Zbrala sem naslednje podatke:
-    • name
-    • country
+
+    • name  
+    • country  
     • type
     • ratings
     • price
