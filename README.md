@@ -3,7 +3,8 @@ Ta repozitorij vsebuje projektno nalogo za predmet Programiranje 1. V projektni 
 
 Zbrala sem naslednje podatke:
 
-    • name  
+
+    <br>name  
     • country  
     • type
     • ratings
